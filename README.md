@@ -32,8 +32,8 @@ This project is a RESTful API for a Library Management System, designed to manag
 1. **Clone the Repository**
 
    ```bash
-   git clone [your-repo-link]
-   cd [your-project-directory]
+   git clone https://github.com/atakann/library-management.git
+   cd library-management
    ```
 
 2. **Install Dependencies**
