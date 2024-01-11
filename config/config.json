@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "libman",
+    "password": "123456",
+    "database": "libmandb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "libman",
+    "password": "123456",
+    "database": "libmandb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "libman",
+    "password": "123456",
+    "database": "libmandb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+} 
